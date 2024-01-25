@@ -21,8 +21,7 @@ public class App {
         }
 
         String username = "YourGmailAddress@gmail.com";
-        String password = "Your Generated Password";
-        // For more information on how and where to generate this password, check README.md
+        String password = "Your Generated App Password";
 
         Properties properties = new Properties();
         properties.put("mail.smtp.auth", "true");
